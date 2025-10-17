@@ -1,10 +1,10 @@
 <h1>Will AI Take Our Jobs?</h1> 
 
-CAUTION: This is AI-generated overview on the given topic.
+>CAUTION: This is AI-generated overview on the given topic.
 
-TL;DR: AI won’t replace all jobs, but it will reshape tasks within most jobs, speed up some careers, diminish others, and create new roles. The outcome depends on how we adopt AI, how quickly we reskill, and which policies we put in place.
+>**TL;DR**: AI won’t replace all jobs, but it will reshape **tasks** within most jobs, speed up some careers, diminish others, and create new roles. The outcome depends on **how** we adopt AI, how quickly we **reskill**, and which **policies** we put in place.
 
----
+<br>
 
 <h2>1) The wrong question: jobs vs. tasks</h2>
 
@@ -22,13 +22,13 @@ A good rule of thumb:
 | Experience → productivity gains. | AI can **compress the experience curve** for juniors. |
 | Skills decay without practice. | Continuous learning + AI tools becomes part of the job. |
 
-Key idea: Tasks are automated; jobs are redesigned.
+>**Key idea: Tasks** are automated; jobs are redesigned.
 
----
+<br>
 
 <h2>2) What the best recent evidence says</h2>
 
-**Short‑term productivity effects (micro evidence).** 
+<h4>Short‑term productivity effects (micro evidence).</h4>
 - A large field study in a Fortune 500 contact center found that giving agents a generative‑AI assistant increased **issues resolved per hour by ~14**%, with the **biggest gains for the least‑experienced agents**—and better customer sentiment.[^nber]  
 - A preregistered experiment with 444 professionals on writing tasks showed **time to complete fell ~37%** and **quality rose ~0.4 SD** with access to a chatbot; benefits were strongest for lower‑ability writers.[^noyzhang]
 
@@ -41,9 +41,9 @@ Key idea: Tasks are automated; jobs are redesigned.
 - The **WEF Future of Jobs 2025** projects ~**170 million jobs created** and ~**92 million displaced** globally by 2030 (a **net +78 million**), driven by tech, green transition, and demographics. Skills needs will shift toward AI/data, cybersecurity, and adaptability.[^wef2025]  
 - **McKinsey** modeling suggests ~**27–30% of hours** in Europe/US could be automated by 2030 (genAI accelerates this), implying millions of **occupational transitions** and a major **skills upgrade** agenda.[^mgi2024]
 
-**Takeaway**: In the near term, AI looks more like a **broad productivity booster** and **task reshuffler** than a universal job destroyer. Over time, transitions could be large—and uneven.
+>**Takeaway**: In the near term, AI looks more like a **broad productivity booster** and **task reshuffler** than a universal job destroyer. Over time, transitions could be large—and uneven.
 
----
+<br>
 
 <h2>3) Who’s at risk, who benefits?</h2>
 
@@ -59,7 +59,7 @@ Key idea: Tasks are automated; jobs are redesigned.
 
 **Early career boost**: The contact‑center study and lab experiments show AI can **encode and spread best practices**, letting juniors perform closer to seniors sooner. That raises **productivity**—and sometimes **wage pressure**—but may also **compress career ladders** unless organizations redesign roles.
 
----
+<br>
 
 <h2>4) What actually changes inside a job?</h2>
 
@@ -68,9 +68,9 @@ Key idea: Tasks are automated; jobs are redesigned.
 3. **Skills portfolio** updates: promptcraft, toolchain literacy (APIs, automation), security/privacy hygiene, critical reading of AI output.  
 4. **Metrics** change: throughput and cycle time improve; judgement errors (hallucinations, misclassifications) become the new bottlenecks to manage.
 
-**Design principle for teams**: Automate the boring, amplify the human.
+>**Design principle for teams**: Automate the boring, amplify the human.
 
----
+<br>
 
 <h2>5) What should you (a first‑year IT student) do?</h2>
 
@@ -88,7 +88,7 @@ A simple checklist for any AI‑assisted task:
 - [ ] Document what the tool did vs. what **you** did.  
 - [ ] Commit in small steps with clear messages.  
 
----
+<br>
 
 <h2>6) Policy and management levers (why this matters for outcomes)</h2>
 
@@ -97,17 +97,17 @@ A simple checklist for any AI‑assisted task:
 - **Guardrails**: data protection, bias testing, provenance/watermarking, and incident response.  
 - **Safety nets**: transition support where displacement is concentrated.  
 
-**Reality check**: AI’s net effects depend on **choices**—of firms (deployment), governments (policy), and individuals (skills).
+>**Reality check**: AI’s net effects depend on **choices**—of firms (deployment), governments (policy), and individuals (skills).
 
----
+<br>
 
 <h2>7) So… will AI take our jobs?</h2>
 
 AI will **take parts of many jobs** and **create parts of new jobs**. Some roles will shrink; others will grow; almost all will **change**. If you learn to **use** the tools, **validate** their output, and **ship** work that combines AI scale with human judgement, you’re positioning yourself on the opportunity side of that change.
 
----
+<br>
 
-References & further reading
+**References & further reading**
 
 - **WEF – Future of Jobs Report 2025** (summary & figures; jobs created/displaced, skills): https://www.weforum.org/stories/2025/01/future-of-jobs-report-2025-jobs-of-the-future-and-the-skills-you-need-to-get-them/  
 - **IMF (Kristalina Georgieva) – “AI Will Transform the Global Economy”** (40% of jobs exposed; policy framing): https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity  
@@ -117,7 +117,7 @@ References & further reading
 - **NBER Working Paper (2023) – Generative AI at Work** (contact‑center field study; +14% productivity): https://www.nber.org/system/files/working_papers/w31161/w31161.pdf  
 - **MIT Working Paper (2023) – Experimental Evidence on the Productivity Effects of Generative AI** (writing tasks; −37% time, +0.4 SD quality): https://economics.mit.edu/sites/default/files/inline-files/Noy_Zhang_1.pdf
 
----
+<br>
 
 <h2>Endnotes (inline citations)</h2>
 
